@@ -100,11 +100,11 @@ Aceptar si TIR ≥ TMAR
 | Nombre | Carnet |
 |--------|--------|
 | Ricardo Antonio Mora Morales   | MM23084 |
-| Diana Vanessa Zepeda Posadas   | 000000 |
-| Jennifer Lisbeth Reyes Pleitez | 000000 |
-| Ana Esmeralda Trejo Zepeda     | 000000 |
+| Diana Vanessa Zepeda Posadas   | ZP23002 |
+| Jennifer Lisbeth Reyes Pleitez | RP23005 |
+| Ana Esmeralda Trejo Zepeda     | TZ23003 |
 | Kevin Gerardo Martínez Guillén | 000000 |
-| Ronald Osvaldo Manzano Deleón  | 000000 |
+| Ronald Osvaldo Manzano Deleón  | MD23005 |
 
 
 ---
