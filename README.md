@@ -103,7 +103,7 @@ Aceptar si TIR ≥ TMAR
 | Diana Vanessa Zepeda Posadas   | ZP23002 |
 | Jennifer Lisbeth Reyes Pleitez | RP23005 |
 | Ana Esmeralda Trejo Zepeda     | TZ23003 |
-| Kevin Gerardo Martínez Guillén | 000000 |
+| Kevin Gerardo Martínez Guillén | MG23117 |
 | Ronald Osvaldo Manzano Deleón  | MD23005 |
 
 
